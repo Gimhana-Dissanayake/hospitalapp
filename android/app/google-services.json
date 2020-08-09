@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "533628037326",
+    "firebase_url": "https://slh-channeling-app.firebaseio.com",
+    "project_id": "slh-channeling-app",
+    "storage_bucket": "slh-channeling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533628037326:android:f82551b214bf628d72889f",
+        "android_client_info": {
+          "package_name": "com.syntaxgenie.slh.slh_channeling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533628037326-hp00dp851egau99n4u10r4oaoat44rq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syntaxgenie.slh.slh_channeling_app",
+            "certificate_hash": "561d529baa81f36bd71e494418ac1c2650c8ccc6"
+          }
+        },
+        {
+          "client_id": "533628037326-o4us136u2aomdpkeohrrjtslrosgndi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATNwjvCZyLuMt_ZzJY4vsXE22wxW-07os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533628037326-o4us136u2aomdpkeohrrjtslrosgndi4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "533628037326-ivqo00tnvtphjnoqbn0942f4qvfauj2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.syntaxgenie.slh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
